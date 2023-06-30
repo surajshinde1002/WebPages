@@ -45,7 +45,7 @@ p{
     color: black;
 }
 
-.container4{
+/* .container4{
     border: solid;
     margin: auto;
    display: flex;
@@ -58,6 +58,29 @@ p{
     width: 75%;
     display: flex;
     flex-wrap: wrap;
+} */
+
+.main{
+    border: solid;
+    display: flex;
+    flex-wrap: wrap;
+}
+.container{
+    border: solid;
+    width: 25%;
+    margin-left: 0%;
+    margin-right: 0%;
+    height: 400px;
+   
+}
+
+.contain{
+    border: solid;
+    width: 75%;
+    margin-left: 0%;
+    margin-right: 0%;
+    height: 400px;
+    display: flex;
 }
 
 
